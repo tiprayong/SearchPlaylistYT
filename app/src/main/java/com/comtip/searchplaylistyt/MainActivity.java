@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     String keywords = "";
     String  order = "";
     final String  typePlaylist = "&type=playlist&maxResults=50&key=";
-    final String APIkey = "AIzaSyB-iYo9CZ0yb13a4esvDeVOZG2zdTqFf0I";
+    final String APIkey = "Youtube API Key";
     String querySearch;
 
 
